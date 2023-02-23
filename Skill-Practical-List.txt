@@ -1,0 +1,12 @@
+Scala Skills
+
+3. Model the concept of a square. A square has a side width. Add operation area to the type Square. -24/02/23
+Hint: Use case class
+
+4. Model a circle, which has a radius and an operation area. 24/02/23
+Hint: Use case class
+-------------------------------------------------------------------------------
+Scala Practical
+1. Write a script for HelloWorld. - 16/01/2023
+2. Demonstrate the different variable types in Scala. - 20/01/2023
+3. Demonstrate the different loops in Scala. - 30/01/2023
