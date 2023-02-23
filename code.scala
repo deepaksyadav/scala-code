@@ -51,3 +51,4 @@ println(smallRectangle.area)
 println(largeRectangle.area)
 
 
+println(smallRectangle)
